@@ -1,0 +1,14 @@
+layout_spectrum: 0.6436289772391319
+typography_spectrum: 0.5778582950588316
+color:
+  brandStrength: 0.8187355976551771
+  lightness: 0.7812910072971135
+  saturation: 0.7129801225382835
+  rhythmicContrast: 0.008484770311042666
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: continuous breakfast
