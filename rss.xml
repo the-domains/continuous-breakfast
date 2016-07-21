@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[continuous breakfasts]]></title>
-        <description><![CDATA[continuous breakfasts]]></description>
+        <title><![CDATA[continuous breakfast]]></title>
+        <description><![CDATA[continuous breakfast]]></description>
         <link>https://thegrid.ai/continuous-breakfast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 14:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 10:31:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/continuous-breakfast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna]]></title>
@@ -12,13 +12,6 @@
             <link>https://youtu.be/kOkQ4T5WO9E</link>
             <guid isPermaLink="false">1a856ab4-5607-4124-a880-e6698d1de05e</guid>
             <pubDate>Wed, 13 Jul 2016 13:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Macau morphs from gambling haven to family-friendly zone - FT.com]]></title>
-            <description><![CDATA[<article><h1>Macau morphs from gambling haven to family-friendly zone - FT.com</h1><p>It is a Saturday night in peak season August at Apex, an elite club in China's only legal gambling region. The entertainment is baccarat, a luck-driven card game that takes five minutes to learn and fewer than 30 seconds to play, with a HK$10,000 ($1,300) per hand minimum.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c00f8d1ff6d85bb014db482403b92418/noop.img?input=http%3A%2F%2Fim.ft-static.com%2Fcontent%2Fimages%2F98bb2131-0a4c-43a8-becc-9931238d6b8e.img"></article>]]></description>
-            <link>https://next.ft.com/content/76d6e4d4-5765-11e5-a28b-50226830d644</link>
-            <guid isPermaLink="false">4952026b-16c5-42ee-b3c3-b65688a0e0e4</guid>
-            <pubDate>Tue, 12 Jul 2016 15:15:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
