@@ -60,12 +60,12 @@ app_links:
     namespace: google
     package: '544007664'
 title: Calvin Harris - This Is What You Came For (Official Video) ft. Rihanna
-datePublished: '2016-07-25T13:44:55.058Z'
-dateModified: '2016-07-25T13:44:54.518Z'
+datePublished: '2016-07-28T18:10:21.261Z'
+dateModified: '2016-07-28T18:10:20.276Z'
 sourcePath: _posts/2016-07-13-calvin-harris-this-is-what-you-came-for-official-video-f.md
 hasPage: true
 via: {}
-starred: false
+starred: true
 url: calvin-harris-this-is-what-you-came-for-official-video-f/index.html
 _type: VideoObject
 _context: 'http://schema.org'
