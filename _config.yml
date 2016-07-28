@@ -1,4 +1,4 @@
-typography_spectrum: 0.8318760157562792
+typography_spectrum: 0.37185819004662335
 color:
   brandStrength: 0.6601331026758999
   lightness: 0.29580872412770987
@@ -10,7 +10,7 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.11082408973015845
+layout_spectrum: 0.6148899800609797
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/29fb0cc8-e5cb-4214-bfe7-94281daf298d.jpg
 name: continuous breakfast
