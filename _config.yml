@@ -18,4 +18,7 @@ navigation:
   - name: music
     id: 1a856ab4-5607-4124-a880-e6698d1de05e
     type: content
+  - name: Blog
+    id: dcbcdbf0-e18a-4fc7-a530-2155c76c32a5
+    type: content
 title: Tagline!
